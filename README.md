@@ -1,2 +1,2 @@
 # about
-About me app
+About me app that exposes /about endpoint
